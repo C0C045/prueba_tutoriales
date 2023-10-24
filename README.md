@@ -8,3 +8,9 @@ En dónde, se usaron las siguientes librerías:
 ```sh
 go get -u github.com/gorilla/mux
 ```
+
+[GORM:](https://gorm.io/index.html)
+```sh
+go get -u gorm.io/gorm
+go get -u gorm.io/driver/postgres
+```
