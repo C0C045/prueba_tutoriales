@@ -1,2 +1,9 @@
-## prueba_tutoriales
-En este repo se muestra todo el proceso CRUD para un entorno educativo virtual, el cuál se basa en publicación de tutoriales con ciertas características
+# CRUD Tutoriales
+## Instrucciones de Instalación
+La aplicación requiere de [GO](https://go.dev/)
+En dónde, se usaron las siguientes librerías:
+
+[Gorilla Mux]:(https://github.com/gorilla/mux)
+```sh
+go get -u github.com/gorilla/mux
+```
