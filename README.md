@@ -22,4 +22,7 @@ Se implemento el siguiente ERD en [PostgreSQL:](https://www.postgresql.org/)
 ## Estructura del Proyecto
 Se implemento la siguiente estructura:
 
-- db #Conexión a Base de datos
+- db -> # Conexión a Base de datos
+- models -> # Modelos de cada una de las tablas
+- routes -> # Cada una de las rutas del CRUD
+- ...
