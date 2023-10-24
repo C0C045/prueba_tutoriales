@@ -1,6 +1,6 @@
 # CRUD Tutoriales
 ## Instrucciones de Instalación
-La aplicación requiere de [GO](https://go.dev/)
+La aplicación requiere de [GO](https://go.dev/) y [PostgreSQL](https://www.postgresql.org/)
 
 En dónde, se usaron las siguientes librerías:
 
