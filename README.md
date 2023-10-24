@@ -14,3 +14,7 @@ go get -u github.com/gorilla/mux
 go get -u gorm.io/gorm
 go get -u gorm.io/driver/postgres
 ```
+
+Se implemento el siguiente ERD en [PostgreSQL:](https://www.postgresql.org/)
+![image](https://github.com/C0C045/prueba_tutoriales/assets/55455142/095b635a-8001-4aca-9ea0-2df506b84722)
+
